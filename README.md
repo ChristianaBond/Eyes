@@ -1,12 +1,12 @@
 # Moving Eyes
 <img src="eyes.png" width='300' />
 # Description
-A pair of eyes generated from divs that follow the user's mouse around the screen,users are also able to change the colors of the irises. 
+A pair of eyes is generated from divs that follow the user's mouse around the screen, users are also able to change the colors of the irises. 
 
 Technologies used: HTML, CSS, and JavaScript.
 
 # How to Run
-Simply load the webpage and begin to the mouse around. To see the code function, visit <a href="christianabond.github.io/Eyes">christianabond.github.io/Eyes</a>.
+Simply load the webpage and begin to mouse around. To see the code function, visit <a href="https://christianabond.github.io/Eyes">christianabond.github.io/Eyes</a>.
 
 To use the code on your own machine, download or clone the repository. All files within the repository (except for CB_Logo2.png) are required for the code to function properly.
 
