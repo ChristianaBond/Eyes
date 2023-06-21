@@ -1,4 +1,5 @@
 # Moving Eyes
+<img src="eyes.png" width='300 />
 # Description
 A pair of eyes generated from divs that follow the user's mouse around the screen,users are also able to change the colors of the irises. 
 
